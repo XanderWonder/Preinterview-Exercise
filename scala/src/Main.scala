@@ -1,3 +1,4 @@
 object Main extends App {
-  print("hola")
+  val cart = new ShoppingCart
+  cart.shoppingList()
 }
