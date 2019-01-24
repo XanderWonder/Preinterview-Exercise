@@ -1,5 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 
+
 class ShoppingCart{
   val appleCost = 0.60
   val orangeCost = 0.25
